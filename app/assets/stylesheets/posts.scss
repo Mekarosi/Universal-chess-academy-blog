@@ -1,3 +1,15 @@
 // Place all the styles related to the Posts controller here.
 // They will automatically be included in application.css.
 // You can use Sass (SCSS) here: http://sass-lang.com/
+
+.site-header {
+    
+// Needs latest Compass, add '@import "compass"' to your scss
+// Permalink - use to edit and share this gradient:
+// http://colorzilla.com/gradient-editor/#febbbb+0,ff5c5c+18,fe9090+43,fe9090+43,fe9090+60,ff5c5c+73,ff5c5c+73,fe9090+92
+background-color: rgb(254,187,187); // Old browsers
+}
+
+.site-header h1 {
+    color: white;
+}
